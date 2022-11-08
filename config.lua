@@ -1,39 +1,16 @@
 --ALTERE ESSAS TABELAS CASO QUEIRA ADICIONAR OU REMOVER ATRIBUTOS E PERICIAS
 atributos = {
     "Forca",
-    "Agilidade",
+    "Reflexos",
     "Destreza",
     "Constituicao",
     "Inteligencia",
     "Percepcao",
-    "Carisma"
+    "Carisma",
+    "Will",
+    "Sabedoria"
 }
-pericias = {
-    "Mira",
-    "Pilotagem",
-    "Evasao",
-    "Arremesso",
-    "Desarmado",
-    "Bloqueio",
-    "Furtividade",
-    "Acrobacia",
-    "Corrida",
-    "Escalada",
-    "Medicina",
-    "Analise",
-    "Engenharia",
-    "Mecanica",
-    "Arrombamento",
-    "Raciocinio",
-    "Hacking",
-    "Atuacao",
-    "Blefe",
-    "Negociacao",
-    "Intimidacao",
-    "Manipulacao",
-    "Empatia",
-    "ApeloSexual"
-}
+pericias = {}
 --ABAIXO DAQUI NÃO TEM NECESSIDADES DE MODIFICAÇÃO SE NÃO SOUBER O QUE ESTÁ FAZENDO
 --CASO QUEIRA USAR OS ATRIBUTOS E PERICIAS EM FICHA
 --OS ATRIBUTOS ESTÃO ARRANJADOS DA SEGUINTE FORMA: SHEET.GRUPO.NOME
