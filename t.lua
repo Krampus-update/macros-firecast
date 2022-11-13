@@ -2,39 +2,16 @@
 --PARA ADICIONAR/REMOVER ATRIBUTOS OU pericias MEXA NOS DOIS ABAIXO.
 atributos = {
     "Forca",
-    "Agilidade",
     "Destreza",
+    "Reflexos",
     "Constituicao",
     "Inteligencia",
+    "Sabedoria",
+    "Carisma",
     "Percepcao",
-    "Carisma"
+    "Will"
 }
-pericias = {
-    "Mira",
-    "Pilotagem",
-    "Evasao",
-    "Arremesso",
-    "Desarmado",
-    "Bloqueio",
-    "Furtividade",
-    "Acrobacia",
-    "Corrida",
-    "Escalada",
-    "Medicina",
-    "Analise",
-    "Engenharia",
-    "Mecanica",
-    "Arrombamento",
-    "Raciocinio",
-    "Hacking",
-    "Atuação",
-    "Blefe",
-    "Negociacao",
-    "Intimidacao",
-    "Manipulacao",
-    "Empatia",
-    "ApeloSexual"
-}
+pericias = {}
 
 --definindo uma variavel para os argumentos passados pelo jogador
 atributo = arg[1]

@@ -1,43 +1,20 @@
 --ALTERE ESSAS TABELAS CASO QUEIRA ADICIONAR OU REMOVER ATRIBUTOS E PERICIAS
 atributos = {
     "Forca",
-    "Agilidade",
     "Destreza",
+    "Reflexos",
     "Constituicao",
     "Inteligencia",
+    "Sabedoria",
+    "Carisma",
     "Percepcao",
-    "Carisma"
+    "Will"
 }
-pericias = {
-    "Mira",
-    "Pilotagem",
-    "Evasao",
-    "Arremesso",
-    "Desarmado",
-    "Bloqueio",
-    "Furtividade",
-    "Acrobacia",
-    "Corrida",
-    "Escalada",
-    "Medicina",
-    "Analise",
-    "Engenharia",
-    "Mecanica",
-    "Arrombamento",
-    "Raciocinio",
-    "Hacking",
-    "Atuacao",
-    "Blefe",
-    "Negociacao",
-    "Intimidacao",
-    "Manipulacao",
-    "Empatia",
-    "ApeloSexual"
-}
+pericias = {}
 --ABAIXO DAQUI NÃO TEM NECESSIDADES DE MODIFICAÇÃO SE NÃO SOUBER O QUE ESTÁ FAZENDO
 --CASO QUEIRA USAR OS ATRIBUTOS E PERICIAS EM FICHA
 --OS ATRIBUTOS ESTÃO ARRANJADOS DA MESMA FORMA QUE ACIMA APENAS COM UM SHEET. NA FRENTE
---SENDO ASSIM, FORÇA É SHEET.ATRIBUTOS["Forca"]
+--SENDO ASSIM, FORÇA É SHEET.ATRIBUTOS.FORCA
 --
 --DEVIDO A PROBLEMAS DE """PREGUIÇA""" EU NÃO VOU TENTAR FAZER ACENTOS E ESPAÇOS FUNCIONAREM, TMJ
 --MADE BY: Krampus
