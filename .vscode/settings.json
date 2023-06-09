@@ -3,6 +3,14 @@
         "var",
         "interpretarRolagem",
         "args",
-        "dado"
+        "dado",
+        "pericias",
+        "sheet",
+        "txt",
+        "escrever",
+        "config",
+        "showMessage",
+        "meuJogador",
+        "choose"
     ]
 }
